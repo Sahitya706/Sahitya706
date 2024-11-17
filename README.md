@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React JS**
 
+- 💬 Ask me about **Frontend**
+
 - 📫 How to reach me **Sahitya706@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
